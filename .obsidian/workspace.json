@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ai资料/agency-agents-README-zh.md",
+                "file": "marketing/marketing-book-co-author.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agency-agents-README-zh"
+              "title": "marketing-book-co-author"
             }
           }
         ]
@@ -183,6 +183,13 @@
   },
   "active": "3f7e29c7e4ec649f",
   "lastOpenFiles": [
+    "marketing/marketing-book-co-author.md",
+    "marketing",
+    "hermes学习/skills-list.md",
+    "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
+    "hermes学习/Hermes-Agent-知识库.md",
+    "engineering/engineering-frontend-developer.md",
+    "ai资料/agency-agents-README-zh.md",
     "hermes学习/Hermes学习笔记_20260504.md"
   ]
 }
