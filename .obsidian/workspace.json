@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "marketing/marketing-book-co-author.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "marketing-book-co-author"
             }
           }
         ]
@@ -191,10 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a745a8295a861750",
+  "active": "3f7e29c7e4ec649f",
   "lastOpenFiles": [
-    "index.md",
+    "product/product-behavioral-nudge-engine.md",
+    "测试/马尔萨斯陷阱.md",
+    "测试",
     "README.md",
+    "index.md",
     "openclaw学习/openclaw-schema.md",
     "ai资料/agency-agents-README-zh.md",
     "marketing/marketing-book-co-author.md",
