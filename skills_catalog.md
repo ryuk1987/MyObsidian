@@ -61,11 +61,11 @@
 
 ## devops
 
-| Skill | 描述 | 内置？ |
-|---|---|---|
-| kanban-orchestrator | Kanban 编排者指南：任务分解、专家库、反诱惑规则 | ✅ 内置 |
-| kanban-worker | Kanban 工作者：坑位、示例、边缘场景 | ✅ 内置 |
-| webhook-subscriptions | Webhook 订阅：事件驱动的 Agent 运行 | ✅ 内置 |
+| Skill                 | 描述                          | 内置？  |
+| --------------------- | --------------------------- | ---- |
+| kanban-orchestrator   | Kanban 编排者指南：任务分解、专家库、反诱惑规则 | ✅ 内置 |
+| kanban-worker         | Kanban 工作者：坑位、示例、边缘场景       | ✅ 内置 |
+| webhook-subscriptions | Webhook 订阅：事件驱动的 Agent 运行   | ✅ 内置 |
 
 ---
 

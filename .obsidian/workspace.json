@@ -11,14 +11,12 @@
             "id": "3f7e29c7e4ec649f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "skills_catalog.md",
-                "mode": "source",
-                "source": false
+                "file": "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf"
               },
-              "icon": "lucide-file",
-              "title": "skills_catalog"
+              "icon": "lucide-file-text",
+              "title": "Hermes-Agent-从入门到精通-v260407"
             }
           }
         ]
@@ -112,11 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Hermes-Agent-从入门到精通-v260407 的出链列表"
             }
           },
           {
@@ -173,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,15 +193,15 @@
   },
   "active": "3f7e29c7e4ec649f",
   "lastOpenFiles": [
-    "ai资料/agency-agents-README-zh.md",
+    "openclaw学习/openclaw-schema.md",
     "skills_catalog.md",
+    "ai资料/agency-agents-README-zh.md",
     "测试/马尔萨斯陷阱.md",
     "marketing/marketing-book-co-author.md",
     "product/product-behavioral-nudge-engine.md",
     "测试",
     "README.md",
     "index.md",
-    "openclaw学习/openclaw-schema.md",
     "marketing",
     "hermes学习/skills-list.md",
     "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
