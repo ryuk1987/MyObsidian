@@ -11,12 +11,14 @@
             "id": "3f7e29c7e4ec649f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "hermes学习/hermes-agent-zh-docs.pdf"
+                "file": "hermes学习/Hermes学习笔记_20260514.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "hermes-agent-zh-docs"
+              "icon": "lucide-file",
+              "title": "Hermes学习笔记_20260514"
             }
           }
         ]
@@ -110,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hermes学习/hermes-agent-zh-docs.pdf",
+                "file": "hermes学习/Hermes学习笔记_20260514.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hermes-agent-zh-docs 的出链列表"
+              "title": "Hermes学习笔记_20260514 的出链列表"
             }
           },
           {
@@ -194,8 +196,9 @@
   "active": "3f7e29c7e4ec649f",
   "lastOpenFiles": [
     "hermes学习/Hermes学习笔记_20260504.md",
-    "hermes学习/skills-list.md",
+    "hermes学习/Hermes学习笔记_20260514.md",
     "hermes学习/hermes-agent-zh-docs.pdf",
+    "hermes学习/skills-list.md",
     "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
     "openclaw学习/openclaw-schema.md",
     "hermes学习/skills_catalog.md",
