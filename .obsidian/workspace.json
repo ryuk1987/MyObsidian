@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf"
+                "file": "hermes学习/hermes-agent-zh-docs.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Hermes-Agent-从入门到精通-v260407"
+              "title": "hermes-agent-zh-docs"
             }
           }
         ]
@@ -110,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
+                "file": "hermes学习/hermes-agent-zh-docs.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Hermes-Agent-从入门到精通-v260407 的出链列表"
+              "title": "hermes-agent-zh-docs 的出链列表"
             }
           },
           {
@@ -193,8 +193,12 @@
   },
   "active": "3f7e29c7e4ec649f",
   "lastOpenFiles": [
+    "hermes学习/Hermes学习笔记_20260504.md",
+    "hermes学习/skills-list.md",
+    "hermes学习/hermes-agent-zh-docs.pdf",
+    "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
     "openclaw学习/openclaw-schema.md",
-    "skills_catalog.md",
+    "hermes学习/skills_catalog.md",
     "ai资料/agency-agents-README-zh.md",
     "测试/马尔萨斯陷阱.md",
     "marketing/marketing-book-co-author.md",
@@ -203,10 +207,7 @@
     "README.md",
     "index.md",
     "marketing",
-    "hermes学习/skills-list.md",
-    "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
     "hermes学习/Hermes-Agent-知识库.md",
-    "engineering/engineering-frontend-developer.md",
-    "hermes学习/Hermes学习笔记_20260504.md"
+    "engineering/engineering-frontend-developer.md"
   ]
 }
