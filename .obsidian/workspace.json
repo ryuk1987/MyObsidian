@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hermes学习/Hermes学习笔记_20260514.md",
+                "file": "openclaw学习/OpenClaw内置Skills完全指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hermes学习笔记_20260514"
+              "title": "OpenClaw内置Skills完全指南"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hermes学习/Hermes学习笔记_20260514.md",
+                "file": "openclaw学习/OpenClaw内置Skills完全指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Hermes学习笔记_20260514 的出链列表"
+              "title": "OpenClaw内置Skills完全指南 的出链列表"
             }
           },
           {
@@ -195,8 +195,9 @@
   },
   "active": "3f7e29c7e4ec649f",
   "lastOpenFiles": [
-    "hermes学习/Hermes学习笔记_20260504.md",
     "hermes学习/Hermes学习笔记_20260514.md",
+    "openclaw学习/OpenClaw内置Skills完全指南.md",
+    "hermes学习/Hermes学习笔记_20260504.md",
     "hermes学习/hermes-agent-zh-docs.pdf",
     "hermes学习/skills-list.md",
     "hermes学习/Hermes-Agent-从入门到精通-v260407.pdf",
